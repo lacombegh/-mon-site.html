@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Style_CSS/Style_du_Site.css">
+    <title>Mogo</title>
+</head>
+<body>
+
+
+<header class="header">
+    <div class="container">
+        <div class="header_inner">
+            <div class="header_logo"></div>
+            
+            <nav class="nav">
+                <a class="nav_link" href="file:///D:/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/index.html">About</a>
+                <a class="nav_link" href="#">Work</a>
+                <a class="nav_link" href="#">Contact</a>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<div class="intro">
+    <div class="container">
+        <div class="intro_inner"></div>
+            <h2 class="intro_suptitle">École</h2>
+            <h1 class="intro_title"> Lutte greco-romaine</h1>
+
+        </div>
+    </div>
+</div>    
+
+<section class="conatiner">
+    <div class="conatiner">
+        <div class="section_header">
+            <h3 class="section_title">Nous</h3>
+            <div class="section_text">
+                <p>La fondation de notre école il y a plus de dix ans a marqué le début d'une histoire fascinante, où chaque élève fait partie de l'héritage vivant de la lutte gréco-romaine. Nous nous efforçons non seulement de former des athlètes physiques, mais aussi de développer le caractère, l'autodiscipline et le respect de l'adversaire.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="about">
+        <div class="about_item">
+            <div class="about_img">
+                <img src="images_du_site/about-2.jpg.png" max-width="250%" height="700px">
+            </div>
+        </div>
+        <div class="about_item">
+            <div class="about_img">
+                <img src="images_du_site/about-4.jpg.png" max-width="200%" height="600px">
+           </div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+<div class="statistics">
+    <div class="container">
+        <div class="stat">
+            <div class="stat_item">
+                <div class="stat_count">500+</div>
+                    <div class="stat_text">Lutteurs</div>
+            </div>
+            <div class="stat_item">
+                <div class="stat_count">6+</div>
+                    <div class="stat_text">Ans</div>
+            </div>
+            <div class="stat_item">
+                <div class="stat_count"></div>
+                    <div class="stat_text">Toujours competitions</div>
+            </div>
+            <div class="stat_item">
+                <div class="stat_count">3-4</div>
+                    <div class="stat_text">entrainement par semaine</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; LACOMBE Nathan A1</p>
+</footer>
+
+</body>
+</html>
